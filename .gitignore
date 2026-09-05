@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.wrangler/
+
+# Helyi titkok - soha ne kerüljenek be
+.dev.vars
+.dev.vars.*
+.env
+.env.*
+
+.DS_Store
+*.log
